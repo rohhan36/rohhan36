@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan
 - 👀 I’m interested in Bikes/ Video Games/ Tech 
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently working as a MERN Developer
 - 📫 Mail me at rohanvasava6301@gmail.com
 
 <!---
